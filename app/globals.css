@@ -1,0 +1,38 @@
+@import "tailwindcss";
+
+/* === Global Dark Theme === */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #0B0B0B; /* tvoj dark stil */
+  color: #E8E3D9;            /* svetli tekst */
+  font-family: var(--font-geist-sans), sans-serif;
+  overflow-x: hidden; /* sprečava pomeranje kod preloadera */
+}
+:root {
+  font-family: var(--font-geist-sans);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1, h2, h3 {
+  color: #C5A572; /* zlatna nijansa */
+  font-weight: 600;
+}
+
+/* === Preloader specific === */
+#preloader {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}

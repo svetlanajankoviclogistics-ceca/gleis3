@@ -1,0 +1,158 @@
+{
+  "hero": {
+    "heroTitle": "Bienvenido al restaurante Gleis 3",
+    "heroSubtitle": "Alta cocina en un entorno histórico",
+    "menuTitle": "Platos destacados",
+    "galleryTitle": "Galería"
+  },
+
+  "menuhome": {
+    "menuTitle": "Platos destacados",
+    "galleryTitle": "Galería",
+    "fullMenu": "Ver menú completo",
+    "allDishes": "Ver todos los platos"
+  },
+
+  "nav": {
+    "startseite": "Inicio",
+    "news": "Noticias",
+    "uberUns": "Sobre nosotros",
+    "speisekarte": "Menú",
+    "gallerie": "Galería",
+    "kontakt": "Contacto"
+  },
+
+  "about": {
+    "aboutTitle": "Sobre nosotros",
+    "aboutContent": "Queridos huéspedes\nBienvenidos al restaurante Gleis 3,\nnuestro nuevo lugar en Interlaken. Nos esforzamos por ofrecer a nuestros huéspedes horas acogedoras y ayudarles a olvidar las preocupaciones del día a día.\nLa amabilidad, la hospitalidad y la calidez son muy importantes para nosotros.\nOfrecemos platos locales, preparados con mucho mimo por nuestro equipo de cocina Ralf Wachter & Farid Ahmadzai.\nLa comida se prepara fresca a la orden, por lo que pueden existir tiempos de espera – las bebidas se manejan con cuidado y todo se sirve con una sonrisa amable. Ese es nuestro lema.\nSi deseas celebrar una ocasión especial, cocinaremos tu plato favorito y haremos del evento uno alegre.\n¡Te deseamos horas agradables, hermosas y entretenidas en nuestra casa! La familia Reshanth y el equipo de Gleis 3"
+  },
+
+  "gallery": {
+    "title": "Nuestra comida"
+  },
+
+  "contact": {
+    "contactTitle": "Contáctanos",
+    "contactPlaceholderName": "Tu nombre",
+    "contactPlaceholderEmail": "Tu correo",
+    "contactPlaceholderMessage": "Tu mensaje",
+    "contactPlaceholderButton": "Enviar",
+    "companyDescription": "¡Estamos aquí para ti!",
+    "companyAddressTitle": "Dirección",
+    "companyAddress": "Bahnhofstrasse 22, Interlaken, Bern 3800",
+    "companyHoursTitle": "Horario de apertura",
+    "companyHours": "Lun–Dom: 08:00–22:00, Cocina hasta 21:30",
+    "companyEmailTitle": "Correo",
+    "companyEmail": "restaurant.gleis3@gmail.com",
+    "companyPhoneTitle": "Teléfono",
+    "companyPhone": "+41 33 123 45 67"
+  },
+
+  "comments": {
+    "list": [
+      {
+        "text": "Buscábamos comida suiza tradicional y ¡quedamos encantados con esta joya increíble! El servicio fue fenomenal, la comida fresca, preparada al momento y con un sabor increíble. No te decepcionarás si visitas Gleis 3 cuando estés en Interlaken. ¡Es absolutamente maravilloso!",
+        "name": "Wenda Smock"
+      },
+      {
+        "text": "Comida tradicional, impecablemente preparada. Reshanth fue un anfitrión increíble. He probado muchos lugares excelentes en Interlaken, pero este es quizás el mejor. El comedor tiene capacidad para unas 24 personas y muchos comensales disfrutan la fondue de queso, lo cual puede resultar abrumador, pero entonces probablemente no deberías entrar en un restaurante suizo tradicional.",
+        "name": "Aron Singletary"
+      },
+      {
+        "text": "Platos deliciosos que están exquisitamente presentados y saben tan bien como se ven. Las porciones son generosas y razonables para el precio. Gran elogio para el propietario Ritchie, que fue súper amable y atento y se aseguró de que nos sintiéramos cómodos desde el momento en que entramos al restaurante y fuimos excelentemente atendidos durante toda la comida. ¡Muy recomendable!",
+        "name": "Christian Ong Tiong Han"
+      }
+    ]
+  },
+
+  "hours": {
+    "hoursTitle": "Horario de apertura",
+    "hoursMonTue": "Lunes y martes",
+    "hoursMonTueTime": "18:00 – 22:30",
+    "hoursWedSun": "Miércoles – domingo",
+    "hoursWedSunTime": "12:00 – 22:30",
+    "hoursKitchen": "Cocina caliente",
+    "hoursKitchenTime": "12:00 – 21:45",
+    "ctaButton": "Reservar una mesa"
+  },
+
+  "footer": {
+    "contact": "Contacto",
+    "phone": "+41 33 525 80 79",
+    "email": "restaurant.gleis3@gmail.com",
+    "hours": "Lun–Dom: 08:00–22:00, Cocina hasta 21:30",
+    "address": "Restaurant Café Gleis 3\nBahnhofstrasse 22\n3800 Interlaken",
+    "follow": "Síguenos"
+  },
+
+  "menu": {
+    "welcomeTitle": "Bienvenido",
+    "welcomeText": "Cálida bienvenida a nuestro restaurante Gleis 3\nEstimado huésped, ¡lea atentamente nuestro concepto de restaurante!!!\n1. Cocinamos todos los platos frescos à la minute después de su pedido. Por lo tanto, pueden existir tiempos de espera. Le agradecemos de antemano su comprensión.\n2. El plato está destinado para una persona, pero pueden compartirlo. Sin embargo, tenga en cuenta que cada comensal debe pedir un plato principal.\n3. Tenga en cuenta que no ofrecemos agua del grifo en nuestro restaurante y que no está permitido traer bebidas privadas, incluida el agua. Gracias por su comprensión.\nLe agradecemos que siga nuestras reglas y le deseamos un tiempo agradable y placentero en nuestro restaurante Gleis 3.\nFam. Reshanth y el equipo de Gleis 3",
+    "appetizers": "Aperitivos",
+    "soups": "Sopas",
+    "mains": "Platos principales",
+    "children": "Menú infantil (hasta 8 años)",
+    "sides": "Guarnición a elegir"
+  },
+
+  "appetizersItems": [
+    { "name": "Ensalada verde", "desc": "Ensalada verde", "price": "CHF 9" },
+    { "name": "Ensalada mixta", "desc": "Ensalada mixta de temporada", "price": "CHF 11" },
+    { "name": "Ensalada de la casa “Gleis 3”", "desc": "ensalada de la casa plataforma 3", "price": "CHF 14" },
+    { "name": "Ensalada de nueces “Gleis 3”", "desc": "Valeriana con tocino, huevo frito, champiñones y crutones", "price": "CHF 19" },
+    { "name": "Ensalada de embutidos", "desc": "Ensalada de embutidos con lechuga de hoja, cebolla, huevo frito y guarnición", "price": "CHF 21" },
+    { "name": "Ensalada de embutidos con queso", "desc": "Ensalada de embutidos con queso", "price": "CHF 23" }
+  ],
+
+  "soupsItems": [
+    { "name": "Crema de tomate", "desc": "Crema de tomate casera con nata montada y albahaca fresca", "price": "CHF 10" },
+    { "name": "Sopa de champiñones", "desc": "Sopa de champiñones casera con nata montada y piñones tostados", "price": "CHF 10" },
+    { "name": "Caldo de verduras con relleno", "desc": "Caldo de verduras con verduras de temporada", "price": "CHF 9" },
+    { "name": "Caldo de verduras con huevo", "desc": "con huevo", "price": "+ CHF 2" },
+    { "name": "Caldo de verduras con jerez", "desc": "con jerez", "price": "+ CHF 4" }
+  ],
+
+  "mainsItems": [
+    { "name": "Pollo de primavera entero", "desc": "Pollo de primavera entero (≈ 450 g) tiempo de espera ≈ 30 min", "price": "CHF 37" },
+    { "name": "Escalope de pechuga de pollo", "desc": "Pechuga de pollo en salsa de coñac con noodles y verduras de temporada", "price": "CHF 36" },
+    { "name": "“Riz Casimir” con pollo", "desc": "Pollo en rodajas con salsa de curry amarillo, arroz basmati, verduras de temporada y guarnición de frutas", "price": "CHF 37" },
+    { "name": "Rösti «Plataforma 3»", "desc": "con carne de res picada, champiñones y huevo frito", "price": "CHF 31" },
+    { "name": "Rösti de verduras (VEG)", "desc": "con verduras salteadas de temporada y huevo frito", "price": "CHF 28" },
+    { "name": "Rösti suizo", "desc": "con jamón y tocino, horneado con queso y huevo frito", "price": "CHF 28" },
+    { "name": "Schnägg de Buurebratwurscht con Rösti", "desc": "Salchicha de cerdo a la parrilla con salsa de cebolla, servida con rösti y verduras de temporada", "price": "CHF 29" },
+    { "name": "Gschnätzlets de Niidle (Ternera)", "desc": "Ternera en rodajas con salsa de champiñones, servida con croquetas de rösti y verduras de temporada", "price": "CHF 37" },
+    { "name": "Gschnätzlets de Niidle (Pollo)", "desc": "Pollo en rodajas con salsa de champiñones, servida con croquetas de rösti y verduras de temporada", "price": "CHF 35" },
+    { "name": "Fondue de queso “Clásico” (VEG)", "desc": "cocido con vino blanco", "price": "CHF 29 p.p." },
+    { "name": "Fondue de queso “Arte del cazador” (VEG)", "desc": "cocido con champiñones y vino blanco", "price": "CHF 31 p.p." },
+    { "name": "Fondue de queso “A la manera de Khanak”", "desc": "cocido con hierbas alpinos, tocino y vino blanco", "price": "CHF 30 p.p." },
+    { "name": "Fondue de queso “Especial Plataforma 3” (VEG)", "desc": "cocido con Prosecco (vino espumoso)", "price": "CHF 31 p.p." },
+    { "name": "Fondue de queso con cerveza", "desc": "cocido con cerveza", "price": "CHF 30 p.p." },
+    { "name": "Fondue de queso “Plataforma 3” (VEG)", "desc": "cocido con chile verde y vino blanco (picante)", "price": "CHF 30 p.p." },
+    { "name": "Schnitzel suizo (Cerdo)", "desc": "Escalope empanado con papas fritas caseras y verduras de temporada", "price": "CHF 33" },
+    { "name": "Schnitzel suizo (Ternera)", "desc": "Escalope empanado con papas fritas caseras y verduras de temporada", "price": "CHF 38" },
+    { "name": "Schnitzel suizo (Pollo)", "desc": "Escalope empanado con papas fritas caseras y verduras de temporada", "price": "CHF 35" },
+    { "name": "Niidle - Schnitzel (Cerdo)", "desc": "Escalope a la parrilla en salsa de champiñones con noodles y verduras de temporada", "price": "CHF 33" },
+    { "name": "Niidle - Schnitzel (Ternera)", "desc": "Escalope a la parrilla en salsa de champiñones con noodles y verduras de temporada", "price": "CHF 38" },
+    { "name": "Niidle - Schnitzel (Pollo)", "desc": "Escalope a la parrilla en salsa de champiñones con noodles y verduras de temporada", "price": "CHF 35" },
+    { "name": "“Cordon bleu” casero Plataforma 3 (Cerdo)", "desc": "Escalope empanado casero relleno de jamón y queso raclette, servido con papas fritas caseras y verduras de temporada", "price": "CHF 35" },
+    { "name": "“Cordon bleu” casero Plataforma 3 (Ternera)", "desc": "Escalope empanado casero relleno de jamón y queso raclette, servido con papas fritas caseras y verduras de temporada", "price": "CHF 39" },
+    { "name": "“Cordon bleu” casero Plataforma 3 (Pollo)", "desc": "Escalope empanado casero relleno de jamón y queso raclette, servido con papas fritas caseras y verduras de temporada", "price": "CHF 37" },
+    { "name": "Entrecôte de ternera de Emmental a la parrilla", "desc": "Solomillo con salsa de pimienta con croquetas de rösti y verduras de temporada", "price": "CHF 49" },
+    { "name": "Macarrones Älpler", "desc": "Macarrones en salsa de crema con papas, tocino y cebollas fritas", "price": "CHF 25" },
+    { "name": "Macarrones Älpler (VEG)", "desc": "vegetariano con champiñones", "price": "CHF 25" },
+    { "name": "Pescado crujiente (filete de perca)", "desc": "Filetes de perca fritos con verduras de temporada y salsa tártara", "price": "CHF 29" }
+  ],
+
+  "childrenItems": [
+    { "name": "Nuggets de pollo", "price": "CHF 15" },
+    { "name": "Pasta o macarrones con salsa a elegir", "desc": "Salsa de tomate / Salsa boloñesa / Salsa de crema", "price": "CHF 15" },
+    { "name": "Pescado crujiente", "desc": "Filetes de pescado fritos", "price": "CHF 15" },
+    { "name": "Papas fritas caseras", "price": "CHF 8" }
+  ],
+
+  "sidesItems": [
+    { "name": "Papas fritas caseras", "desc": "Papas fritas caseras", "price": "CHF 8" },
+    { "name": "Arroz", "desc": "Arroz", "price": "CHF 6" },
+    { "name": "Noodles o macarrones", "desc": "Noodles o macarrones", "price": "CHF 6" }
+  ]
+}

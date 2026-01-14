@@ -1,0 +1,166 @@
+{
+  "hero": {
+   "heroTitle": "Welcome to Gleis 3 Restaurant",
+   "heroSubtitle": "Fine cuisine in a historic setting",
+   "menuTitle": "Menu Highlights",
+   "galleryTitle": "Gallery"
+  },
+
+  "menuhome": {
+   "menuTitle": "Menu Highlights",
+   "galleryTitle": "Gallery",
+   "fullMenu": "View full menu",
+   "allDishes": "View all dishes"
+ },
+
+ "nav": {
+  "startseite": "Home",
+  "news": "News",
+  "uberUns": "About Us",
+  "speisekarte": "Menu",
+  "gallerie": "Gallery",
+  "kontakt": "Contact"
+ },
+
+  "about": {
+   "aboutTitle": "About us",
+   "aboutContent": "Dear Guests\nWelcome to Gleis 3 Restaurant,\nour new in-place in Interlaken. We strive to provide our guests with cozy hours and help them forget the worries of everyday life.\nFriendliness, hospitality, and warmth are very important to us.\nWe offer local dishes, prepared with great care by our kitchen team Ralf Wachter & Farid Ahmadzai.\nFood is freshly prepared with love, so waiting times may occur – beverages are handled with care, and everything is served with a friendly smile. That's our motto.\nIf you want to celebrate a special occasion, we will cook your favorite dish and make the event a joyful one.\nWe wish you pleasant, beautiful, and entertaining hours in our house! The Reshanth family and the Gleis 3 team"
+  },
+
+  "gallery": {
+    "title": "Our Food"
+  },
+
+ "contact": {
+   "contactTitle": "Contact Us",
+   "contactPlaceholderName": "Your Name",
+   "contactPlaceholderEmail": "Your Email",
+   "contactPlaceholderMessage": "Your Message",
+   "contactPlaceholderButton": "Send",
+   "companyDescription": "We are here for you!",
+   "companyAddressTitle": "Address",
+   "companyAddress": "Bahnhofstrasse 22, Interlaken, Bern 3800",
+   "companyHoursTitle": "Opening Hours",
+   "companyHours": "Mon – Sun: 11:30 – 23:00",
+   "companyEmailTitle": "Email",
+   "companyEmail": "restaurant.gleis3@gmail.com",
+   "companyPhoneTitle": "Phone",
+   "companyPhone": "+41 33 525 80 79"
+  },
+
+
+  "comments": {
+    "list": [
+    {
+      "text": "We were looking for traditional Swiss food and were delighted by this amazing gem! The service was phenomenal, the food was freshly prepared to order and tasted incredibly good. You will not be disappointed when you visit Gleis 3 if you are ever in Interlaken. It is absolutely wonderful!",
+      "name": "Wenda Smock"
+    },
+    {
+      "text": "Traditional food, flawlessly prepared. Reshanth was an incredible host. I’ve tried many excellent places in Interlaken, but this one is perhaps the best. The dining area seats maybe 24 people and many guests enjoy the cheese fondue, which can be overwhelming, but then you probably shouldn’t go into a traditional Swiss restaurant.",
+      "name": "Aron Singletary"
+    },
+    {
+      "text": "Delicious dishes that are exquisitely presented and taste just as good as they look. The portions are large and reasonable for the price. Big praise goes to the owner Ritchie, who was super friendly and attentive and made sure we felt comfortable from the moment we entered the restaurant and were excellently served throughout the entire meal. Highly recommended!",
+      "name": "Christian Ong Tiong Han"
+    }
+    ]
+  },
+
+  "hours": {
+    "hoursTitle": "Opening Hours",
+    "hoursMonTue": "Monday & Tuesday",
+    "hoursMonTueTime": "18:00 – 22:30",
+    "hoursWedSun": "Wednesday – Sunday",
+    "hoursWedSunTime": "12:00 – 22:30",
+    "hoursKitchen": "Hot Kitchen",
+    "hoursKitchenTime": "12:00 – 21:45",
+    "ctaButton": "Reserve a table"
+  },
+
+  "footer": {
+   "contact": "Contact",
+   "phone": "+41 33 525 80 79",
+   "email": "restaurant.gleis3@gmail.com",
+   "hours": "Mon–Sun: 08:00–22:00, Kitchen until 21:30",
+   "address": "Restaurant Café Gleis 3\nBahnhofstrasse 22\n3800 Interlaken",
+   "follow": "Follow us"
+ },
+ 
+
+  "menu": {
+    "welcomeTitle": "Welcome",
+    "welcomeText": "Warm welcome to our restaurant Gleis 3\nDear guest, Please read our restaurant concept carefully!!!\n1. We cook all dishes fresh à la minute after your order. Therefore, there may be waiting times. We thank you in advance for your understanding.\n2. The plate is intended for one person, but you are welcome to share it among yourselves. However, please note that each guest must order a main course.\n3. Please note that we do not offer tap water in our restaurant and bringing private drinks, including water, is not allowed. Thank you for your understanding.\nWe thank you for following our rules and wish you a pleasant and enjoyable time at our restaurant Gleis 3.\nFam. Reshanth and the Gleis 3 team",
+    "appetizers": "Appetizers",
+    "soups": "Soups",
+    "mains": "Main Courses",
+    "children": "Children’s Menu (until 8 years)",
+    "sides": "Side dish of your choice"
+  },
+
+  "appetizersItems": [
+    { "name": "Green salad", "desc": "Green salad", "price": "CHF 9" },
+    { "name": "Mixed salad", "desc": "Mixed seasonal salad", "price": "CHF 11" },
+    { "name": "House salad “Gleis 3”", "desc": "house salad platform 3", "price": "CHF 14" },
+    { "name": "Nut salad “Gleis 3”", "desc": "Lamb's lettuce with bacon, fried egg, mushrooms and croutons", "price": "CHF 19" },
+    { "name": "Sausage salad", "desc": "Sausage salad with leaf lettuce, onions, fried egg and garnish", "price": "CHF 21" },
+    { "name": "Sausage salad with cheese", "desc": "Sausage salad with cheese", "price": "CHF 23" }
+  ],
+
+  "soupsItems": [
+    { "name": "Tomato cream soup", "desc": "Home made tomato cream soup with whipped cream and fresh basil", "price": "CHF 10" },
+    { "name": "Mushroom soup", "desc": "Home made mushroom soup with whipped cream and roasted pine nuts", "price": "CHF 10" },
+    { "name": "Vegetable bouillon with filling", "desc": "Vegetable broth with seasonal vegetables", "price": "CHF 9" },
+    { "name": "Vegetable bouillon with egg", "desc": "with egg", "price": "+ CHF 2" },
+    { "name": "Vegetable bouillon with sherry", "desc": "with sherry", "price": "+ CHF 4" }
+  ],
+
+  "mainsItems": [
+    { "name": "Whole spring chicken", "desc": "Whole spring chicken (≈ 450 g) waiting time ≈ 30 min", "price": "CHF 37" },
+    { "name": "Chicken breast schnitzel", "desc": "Chicken breast on cognac sauce with noodles and seasonal vegetables", "price": "CHF 36" },
+    { "name": "“Riz Casimir” with Chicken", "desc": "Chicken sliced with yellow curry sauce, basmati rice seasonal vegetables and fruit garnish", "price": "CHF 37" },
+    { "name": "Rösti «Platform 3»", "desc": "with minced beef, mushrooms & fried egg", "price": "CHF 31" },
+    { "name": "Vegetable Rösti (VEG)", "desc": "with sautéed seasonal vegetables & fried egg", "price": "CHF 28" },
+    { "name": "Swiss rösti", "desc": "with ham & bacon, baked with cheese & fried egg", "price": "CHF 28" },
+    { "name": "Buurebratwurscht Schnägg with Rösti", "desc": "Grilled pork sausage with onion sauce, served with hash browns & seasonal vegetables", "price": "CHF 29" },
+    { "name": "Niidle - Gschnätzlets (Veal)", "desc": "Veal sliced with a mushroom sauce, served with hash browns & seasonal vegetables", "price": "CHF 37" },
+    { "name": "Niidle - Gschnätzlets (Chicken)", "desc": "Chicken sliced with a mushroom sauce, served with hash browns & seasonal vegetables", "price": "CHF 35" },
+    { "name": "Cheese fondue “Classic” (VEG)", "desc": "cooked with white wine", "price": "CHF 29 p.p." },
+    { "name": "Cheese fondue “Hunter Art” (VEG)", "desc": "cooked with mushrooms & white wine", "price": "CHF 31 p.p." },
+    { "name": "Cheese fondue “Khanak’s way”", "desc": "cooked with alpine herbs, bacon & white wine", "price": "CHF 30 p.p." },
+    { "name": "Cheese fondue “Track 3 – Special” (VEG)", "desc": "cooked with Prosecco (sparkling wine)", "price": "CHF 31 p.p." },
+    { "name": "Cheese fondue with beer", "desc": "cooked with beer", "price": "CHF 30 p.p." },
+    { "name": "Cheese fondue “Track 3” (VEG)", "desc": "cooked with green chilli & white wine (spicy)", "price": "CHF 30 p.p." },
+    { "name": "Swiss schnitzel (Pork)", "desc": "Breaded schnitzel with homemade french fries & seasonal vegetables", "price": "CHF 33" },
+    { "name": "Swiss schnitzel (Veal)", "desc": "Breaded schnitzel with homemade french fries & seasonal vegetables", "price": "CHF 38" },
+    { "name": "Swiss schnitzel (Chicken)", "desc": "Breaded schnitzel with homemade french fries & seasonal vegetables", "price": "CHF 35" },
+    { "name": "Niidle - Schnitzel (Pork)", "desc": "Grilled schnitzel on mushroom sauce with noodles & seasonal vegetables", "price": "CHF 33" },
+    { "name": "Niidle - Schnitzel (Veal)", "desc": "Grilled schnitzel on mushroom sauce with noodles & seasonal vegetables", "price": "CHF 38" },
+    { "name": "Niidle - Schnitzel (Chicken)", "desc": "Grilled schnitzel on mushroom sauce with noodles & seasonal vegetables", "price": "CHF 35" },
+    { "name": "Homemade “Cordon bleu” Platform 3 (Pork)", "desc": "Homemade breaded schnitzel filled with ham & raclette cheese, served with homemade French fries & seasonal vegetables", "price": "CHF 35" },
+    { "name": "Homemade “Cordon bleu” Platform 3 (Veal)", "desc": "Homemade breaded schnitzel filled with ham & raclette cheese, served with homemade French fries & seasonal vegetables", "price": "CHF 39" },
+    { "name": "Homemade “Cordon bleu” Platform 3 (Chicken)", "desc": "Homemade breaded schnitzel filled with ham & raclette cheese, served with homemade French fries & seasonal vegetables", "price": "CHF 37" },
+    { "name": "Grilled Emmental beef entrecôte", "desc": "Sirloin steak with pepper sauce with hash brown croquettes & seasonal vegetables", "price": "CHF 49" },
+    { "name": "Älpler macaroni", "desc": "Macaroni on cream sauce with potatoes, bacon & fried onions", "price": "CHF 25" },
+    { "name": "Älpler macaroni (VEG)", "desc": "vegetarian with mushrooms", "price": "CHF 25" },
+    { "name": "Crispy fish (perch fillet)", "desc": "Deep-fried perch fillets with seasonal vegetables and tartar sauce", "price": "CHF 29" }
+  ],
+
+  "childrenItems": [
+    { "name": "Chicken nuggets", "price": "CHF 15" },
+    { "name": "Pasta or macaroni with sauce of choice", "desc": "Tomato sauce / Bolognese sauce / Cream sauce", "price": "CHF 15" },
+    { "name": "Fish crispy", "desc": "Deep-fried fish fillets", "price": "CHF 15" },
+    { "name": "Homemade French fries", "price": "CHF 8" }
+  ],
+
+  "sidesItems": [
+    { "name": "Homemade French fries", "desc": "Homemade French fries", "price": "CHF 8" },
+    { "name": "Rice", "desc": "Rice", "price": "CHF 6" },
+    { "name": "Noodles or macaroni", "desc": "Noodles or macaroni", "price": "CHF 6" }
+  ]
+
+
+
+
+
+}
+

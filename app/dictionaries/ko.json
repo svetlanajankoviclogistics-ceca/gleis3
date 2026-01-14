@@ -1,0 +1,166 @@
+{
+  "hero": {
+   "heroTitle": "글라이스 3 레스토랑에 오신 것을 환영합니다",
+   "heroSubtitle": "역사적인 분위기 속에서 즐기는 정통 요리",
+   "menuTitle": "메뉴 하이라이트",
+   "galleryTitle": "갤러리"
+  },
+
+  "menuhome": {
+   "menuTitle": "메뉴 하이라이트",
+   "galleryTitle": "갤러리",
+   "fullMenu": "전체 메뉴 보기",
+   "allDishes": "모든 요리 보기"
+ },
+
+ "nav": {
+   "startseite": "홈",
+   "news": "소식",
+   "uberUns": "소개",
+   "speisekarte": "메뉴",
+   "gallerie": "갤러리",
+   "kontakt": "연락처"
+ },
+
+ "about": {
+   "aboutTitle": "회사 소개",
+   "aboutContent": "친애하는 고객님께\n글라이스 3 레스토랑에 오신 것을 환영합니다.\n인터라켄의 새로운 인-로컬입니다. 저희는 고객님께 편안한 시간을 제공하고 일상의 걱정을 잊게 해드리기 위해 최선을 다하고 있습니다.\n친절, 환대, 따뜻함은 저희에게 매우 중요합니다.\n저희 주방 팀인 Ralf Wachter & Farid Ahmadzai가 정성껏 준비한 지역 요리를 제공합니다.\n음식은 사랑을 담아 신선하게 준비되며, 따라서 대기 시간이 발생할 수 있습니다 – 음료는 정성껏 준비되며, 모든 것이 친절한 미소와 함께 제공됩니다. 이것이 저희 모토입니다.\n특별한 행사를 기념하고 싶으시다면, 고객님이 좋아하는 요리를 준비하여 기쁜 행사로 만들어 드리겠습니다.\n저희 레스토랑에서 즐겁고 아름답고 유쾌한 시간을 보내시길 바랍니다! Reshanth 가족과 Gleis 3 팀 드림"
+  },
+
+  "gallery": {
+    "title": "우리의 음식"
+  },
+
+ "contact": {
+   "contactTitle": "문의하기",
+   "contactPlaceholderName": "이름",
+   "contactPlaceholderEmail": "이메일",
+   "contactPlaceholderMessage": "메시지",
+   "contactPlaceholderButton": "보내기",
+   "companyDescription": "저희가 도와드리겠습니다!",
+   "companyAddressTitle": "주소",
+   "companyAddress": "Bahnhofstrasse 22, Interlaken, Bern 3800",
+   "companyHoursTitle": "영업 시간",
+   "companyHours": "월 – 일: 11:30 – 23:00",
+   "companyEmailTitle": "이메일",
+   "companyEmail": "restaurant.gleis3@gmail.com",
+   "companyPhoneTitle": "전화",
+   "companyPhone": "+41 33 525 80 79"
+ },
+
+   "comments": {
+    "list": [
+    {
+      "text": "전통적인 스위스 음식을 찾고 있었는데, 이 놀라운 보석 같은 곳에 매우 만족했습니다! 서비스는 Phenomenal였고, 음식은 주문 즉시 신선하게 준비되어 정말 맛있었습니다. 인터라켄에 오신다면 Gleis 3를 방문하시면绝对不会실망하실 겁니다. 정말 멋집니다!",
+      "name": "Wenda Smock"
+    },
+    {
+      "text": "전통 음식이 완벽하게 준비되었습니다. Reshanth는 놀라운 주인장이었어요. 인터라켄의 많은 훌륭한 곳들을 경험해 봤지만, 이곳이 아마 최고일 것 같아요. 다이닝 공간은 약 24석 정도이고, 많은 손님들이 치즈 퐁듀를 즐기고 있는데, 강렬할 수 있지만, 전통 스위스 레스토랑에 오신 이상 당연한 거겠죠.",
+      "name": "Aron Singletary"
+    },
+    {
+      "text": "요리는 정교하게 플레이팅되어 있고, 보기만큼 맛도 훌륭합니다. 양은 많고 가격 대비 만족스럽습니다. 주인 Ritchie께서 정말 친절하고 세심하게 배려해 주셔서, 레스토랑에 들어선 순간부터 편안하게 느끼고, 식사 내내 훌륭하게 서비스받을 수 있었습니다. 적극 추천합니다!",
+      "name": "Christian Ong Tiong Han"
+    }
+  ]
+  },
+
+  "hours": {
+    "hoursTitle": "영업 시간",
+    "hoursMonTue": "월요일 & 화요일",
+    "hoursMonTueTime": "18:00 – 22:30",
+    "hoursWedSun": "수요일 – 일요일",
+    "hoursWedSunTime": "12:00 – 22:30",
+    "hoursKitchen": "핫 키친",
+    "hoursKitchenTime": "12:00 – 21:45",
+    "ctaButton": "테이블 예약"
+  },
+
+  "footer": {
+   "contact": "연락처",
+   "phone": "+41 33 525 80 79",
+   "email": "restaurant.gleis3@gmail.com",
+   "hours": "월–일: 08:00–22:00, 주방 21:30까지",
+   "address": "Restaurant Café Gleis 3\nBahnhofstrasse 22\n3800 Interlaken",
+   "follow": "팔로우하기"
+ },
+
+
+  "menu": {
+    "welcomeTitle": "환영",
+    "welcomeText": "저희 레스토랑 Gleis 3에 오신 것을 환영합니다.\n친애하는 손님, 저희 레스토랑 컨셉을 주의 깊게 읽어주세요!!!\n1. 우리는 모든 요리를 주문 후 신선하게 à la minute로 요리합니다. 따라서 대기 시간이 발생할 수 있습니다. 미리 양해해 주셔서 감사합니다.\n2. 이 요리는 한 사람을 위한 것이지만, 서로 공유하실 수 있습니다. 그러나 각 손님은 메인 요리를 주문해야 합니다.\n3. 저희 레스토랑에서는 수돗물을 제공하지 않으며, 물을 포함한 개인 음료의 지참은 허용되지 않습니다. 양해해 주셔서 감사합니다.\n규칙을 준수해 주셔서 감사하며, Gleis 3 레스토랑에서 즐거운 시간을 보내시기를 바랍니다.\n가족. Reshanth와 Gleis 3 팀",
+    "appetizers": "전채",
+    "soups": "수프",
+    "mains": "메인 요리",
+    "children": "어린이 메뉴(8세까지)",
+    "sides": "선택한 반찬"
+  },
+
+  "appetizersItems": [
+    { "name": "그린 샐러드", "desc": "그린샐러드", "price": "CHF 9" },
+    { "name": "믹스 샐러드", "desc": "계절 혼합 샐러드", "price": "CHF 11" },
+    { "name": "하우스 샐러드 “트랙 3”", "desc": "하우스 샐러드 플랫폼 3", "price": "CHF 14" },
+    { "name": "누슬리 샐러드 “Gleis 3”", "desc": "베이컨, 계란 후라이 버섯, 크루통을 곁들인 양고기 양상추", "price": "CHF 19" },
+    { "name": "소시지 샐러드", "desc": "양상추, 양파, 계란후라이, 고명을 곁들인 소시지 샐러드", "price": "CHF 21" },
+    { "name": "소시지 샐러드 (치즈 포함)", "desc": "치즈를 포함한 소시지 샐러드", "price": "CHF 23" }
+  ],
+
+  "soupsItems": [
+    { "name": "토마토 크림 수프", "desc": "휘핑크림과 신선한 바질을 곁들인 집에서 만든 토마토 크림 수프", "price": "CHF 10" },
+    { "name": "새송이 버섯 수프", "desc": "집에서 만든 버섯 수프에 휘핑크림과 구운 소나무 열매를 곁들인 것", "price": "CHF 10" },
+    { "name": "야채 부용", "desc": "계절 야채를 넣은 야채육수", "price": "CHF 9" },
+    { "name": "야채 부용 (계란 포함)", "desc": "계란 포함", "price": "+ CHF 2" },
+    { "name": "야채 부용 (셰리 포함)", "desc": "셰리 포함", "price": "+ CHF 4" }
+  ],
+
+  "mainsItems": [
+    { "name": "봄통닭 전체", "desc": "봄통닭 전체(약 450 g) 대기 시간 약 30분", "price": "CHF 37" },
+    { "name": "닭가슴살 슈니첼", "desc": "국수와 계절 야채를 곁들인 코냑 소스의 닭 가슴살", "price": "CHF 36" },
+    { "name": "“리즈 카시미르” 치킨", "desc": "옐로우 카레 소스를 곁들인 닭고기 슬라이스, 바스마티 라이스 제철 야채와 과일 가니쉬", "price": "CHF 37" },
+    { "name": "뢰스티 «플랫폼 3»", "desc": "다진 쇠고기, 버섯, 달걀 프라이를 곁들인", "price": "CHF 31" },
+    { "name": "야채 뢰스티(VEG)", "desc": "볶은 계절 야채와 계란후라이를 곁들인", "price": "CHF 28" },
+    { "name": "스위스 뢰스티", "desc": "햄과 베이컨, 치즈와 계란후라이를 곁들인 구운 요리", "price": "CHF 28" },
+    { "name": "Buurebratwurscht Schnägg와 뢰스티", "desc": "양파 소스를 곁들인 구운 돼지고기 소시지, 해시 브라운 및 계절 야채와 함께 제공", "price": "CHF 29" },
+    { "name": "니들레 - Gschnätzlets (송아지)", "desc": "버섯 소스를 곁들인 송아지 고기에 해시 브라운과 제철 야채를 곁들인 요리", "price": "CHF 37" },
+    { "name": "니들레 - Gschnätzlets (치킨)", "desc": "버섯 소스를 곁들인 닭고기에 해시 브라운과 제철 야채를 곁들인 요리", "price": "CHF 35" },
+    { "name": "치즈 퐁듀 «클래식»(VEG)", "desc": "화이트 와인으로 요리한", "price": "CHF 29 p.p." },
+    { "name": "치즈 퐁듀 «헌터 아트»(VEG)", "desc": "버섯과 화이트 와인(VEG)을 곁들인", "price": "CHF 31 p.p." },
+    { "name": "치즈 퐁듀 «카나크의 예술»", "desc": "알파인 허브와 베이컨, 화이트 와인을 곁들인 요리", "price": "CHF 30 p.p." },
+    { "name": "치즈 퐁듀 «트랙 3 – 스페셜 타입»(VEG)", "desc": "프로세코(스파클링 와인)로 요리함", "price": "CHF 31 p.p." },
+    { "name": "치즈 퐁듀 맥주", "desc": "맥주와 함께 요리", "price": "CHF 30 p.p." },
+    { "name": "치즈 퐁듀 «트랙 3»(VEG)", "desc": "청양고추와 화이트 와인을 넣은 요리(매운맛)", "price": "CHF 30 p.p." },
+    { "name": "스위스 슈니첼(돼지)", "desc": "홈메이드 감자튀김과 계절 야채를 곁들인 빵가루를 입힌 슈니첼", "price": "CHF 33" },
+    { "name": "스위스 슈니첼(송아지)", "desc": "홈메이드 감자튀김과 계절 야채를 곁들인 빵가루를 입힌 슈니첼", "price": "CHF 38" },
+    { "name": "스위스 슈니첼(치킨)", "desc": "홈메이드 감자튀김과 계절 야채를 곁들인 빵가루를 입힌 슈니첼", "price": "CHF 35" },
+    { "name": "니들레 - 슈니첼(돼지)", "desc": "국수와 계절 야채를 곁들인 버섯 크림 소스를 곁들인 구운 슈니첼", "price": "CHF 33" },
+    { "name": "니들레 - 슈니첼(송아지)", "desc": "국수와 계절 야채를 곁들인 버섯 크림 소스를 곁들인 구운 슈니첼", "price": "CHF 38" },
+    { "name": "니들레 - 슈니첼(치킨)", "desc": "국수와 계절 야채를 곁들인 버섯 크림 소스를 곁들인 구운 슈니첼", "price": "CHF 35" },
+    { "name": "홈메이드 “코르동 블루” 플랫폼 3(돼지)", "desc": "햄과 라클렛 치즈를 가득 넣은 홈메이드 슈니첼, 직접 만든 감자튀김과 계절 야채를 곁들인 요리", "price": "CHF 35" },
+    { "name": "홈메이드 “코르동 블루” 플랫폼 3(송아지)", "desc": "햄과 라클렛 치즈를 가득 넣은 홈메이드 슈니첼, 직접 만든 감자튀김과 계절 야채를 곁들인 요리", "price": "CHF 39" },
+    { "name": "홈메이드 “코르동 블루” 플랫폼 3(치킨)", "desc": "햄과 라클렛 치즈를 가득 넣은 홈메이드 슈니첼, 직접 만든 감자튀김과 계절 야채를 곁들인 요리", "price": "CHF 37" },
+    { "name": "구운 에멘탈 쇠고기 앙트레코트", "desc": "해시브라운 고로케와 계절 야채를 곁들인 후추 소스를 곁들인 설로인 스테이크", "price": "CHF 49" },
+    { "name": "엘플러 마카로니", "desc": "감자, 베이컨, 튀긴 양파를 곁들인 크림 소스 마카로니", "price": "CHF 25" },
+    { "name": "엘플러 마카로니(VEG)", "desc": "버섯을 넣은 채식주의자", "price": "CHF 25" },
+    { "name": "바삭한 생선(농어 필레)", "desc": "제철 야채와 타르타르 소스를 곁들인 농어 필레 튀김", "price": "CHF 29" }
+  ],
+
+  "childrenItems": [
+    { "name": "치킨 너겟", "price": "CHF 15" },
+    { "name": "원하는 소스를 곁들인 파스타 또는 마카로니", "desc": "토마토 소스 / 볼로네제 소스 / 크림소스", "price": "CHF 15" },
+    { "name": "생선 크리스피", "desc": "생선 필레 튀김", "price": "CHF 15" },
+    { "name": "집에서 만든 감자튀김", "price": "CHF 8" }
+  ],
+
+  "sidesItems": [
+    { "name": "집에서 만든 감자튀김", "desc": "집에서 만든 감자튀김", "price": "CHF 8" },
+    { "name": "쌀", "desc": "쌀", "price": "CHF 6" },
+    { "name": "국수 또는 마카로니", "desc": "국수 또는 마카로니", "price": "CHF 6" }
+  ]
+
+
+
+
+
+
+}
+
