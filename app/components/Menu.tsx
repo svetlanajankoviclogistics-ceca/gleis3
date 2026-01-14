@@ -10,9 +10,9 @@ type MenuProps = {
 
 export default function Menu({ title, fullMenu,currentLang }: MenuProps) {
   const items = [
-    { name: "Rindsfilet mit Kräuterbutter", price: "CHF 46" },
-    { name: "Hausgemachte Ravioli mit Ricotta & Spinat", price: "CHF 32" },
-    { name: "Gleis 3 Burger mit Pommes", price: "CHF 28" },
+    { name: "Rösti «Gleis 3»", price: "CHF 31" },
+    { name: "Emmentaler Rindsentrecôte vom Grill", price: "CHF 49" },
+    { name: "Hausgemachtes “Cordon bleu” Gleis 3", price: "CHF 38" },
   ];
 
   return (
