@@ -9,7 +9,7 @@ const links = [
   { href: "https://www.facebook.com/restaurantgleis3/", icon: FaFacebook, label: "Facebook" },
   { href: "https://instagram.com", icon: FaInstagram, label: "Instagram" },
   { href: "https://wa.me/41628883300", icon: FaWhatsapp, label: "WhatsApp" },
-  { href: "https://g.page/restoran?review", icon: FaGoogle, label: "Google Review" },
+  { href: "https://search.google.com/local/writereview?placeid=ChIJm1SOrlKlj0cRnma3KIv4OmA", icon: FaGoogle, label: "Google Review" },
 ];
 
 type Props = { hideOnMobile?: boolean };
