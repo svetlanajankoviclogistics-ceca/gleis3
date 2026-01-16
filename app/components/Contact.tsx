@@ -168,7 +168,7 @@ export default function Contact({ t }: ContactProps) {
       >
         <iframe
           title="Google Maps – Restaurant Gleis 3"
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2780.372668162354!2d8.1681302!3d47.3768862!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47900b56b7f47ff7%3A0x676d8bb05b8e74f2!2sBahnhofstrasse%203%2C%205600%20Lenzburg!5e0!3m2!1sen!2sch!4v1698612345678!5m2!1sen!2sch"
+          src="https://maps.app.goo.gl/LFJgSj1ZNVrfDxSm7"
           width="100%"
           height="100%"
           style={{ border: 0 }}
