@@ -38,23 +38,22 @@ export default async function GalleryPage({ params }: Props) {
   const t = await getHomeDict(lang);
 
   const dishes = [
+    { name: "Ganzes Mischtkrazerli", image: "g8_vwoq04" },
+    { name: "Pouletbrustschnitzel", image: "pouletbrustschnitzel_sjbj2g" },
+    { name: "Riz Casimir", image: "g3_ouph9a" },
     { name: "Rösti Gleis 3", image: "g10_epihfh" },
     { name: "Gemüse Rösti", image: "g18_snpbdd" },
-    { name: "Riz Casimir", image: "g3_ouph9a" },
-    { name: "Pouletbrustschnitzel", image: "g0_uqak1j" },
-    { name: "Ganzes Mischtkrazerli", image: "g8_vwoq04" },
-    { name: "Fischknusperli", image: "g7_mfvl4k" },
-    { name: "Älpler‑Maccaroni", image: "g11_bdtxap" },
-    { name: "Niidle‑Schnitzel", image: "g5_riz632" },
-    { name: "Rindsentrecôte", image: "g1_idu7lm" },
-    { name: "Cordon bleu Gleis 3", image: "g12_dex3ji" },
-    { name: "Schwyzer Stammtisch‑Schnitzel", image: "g2_tfaapf" },
+    { name: "Schweizer Rösti",image: "g20_m8w3s1" },
     { name: "Buurebratwurst‑Schnägg", image: "g19_b4ymx7" },
     { name: "Niidle‑Gschnätzlets", image: "g6_m0jxe0" },
-    { name: "Nacktes Cordon Bleu Gleis 3", image: "g15_eqzobs" },
-    { name: "unknown", image: "g4_v1b5ow" },
-    { name: "dont know the name", image: "g21_wvfe7j" },
     { name: "Käse - Fondue", image: "WhatsApp_Image_2026-01-10_at_14.07.23_jy7nwa" },
+    { name: "Schwyzer Stammtisch‑Schnitzel", image: "g2_tfaapf" },
+    { name: "Niidle‑Schnitzel", image: "g5_riz632" },
+    { name: "Cordon bleu Gleis 3", image: "g12_dex3ji" },
+    { name: "Nacktes Cordon Bleu Gleis 3", image: "g15_eqzobs" },
+    { name: "Rindsentrecôte", image: "g1_idu7lm" },
+    { name: "Älpler‑Maccaroni", image: "g11_bdtxap" },
+    { name: "Fischknusperli", image: "g7_mfvl4k" },
   ];
 
   return (
